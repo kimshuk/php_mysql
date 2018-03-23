@@ -7,9 +7,8 @@
   </head>
 
   <body>
+
     <h1>Globe Bank: Coming Soon</h1>
-    <?php
-      echo __DIR__;
-    ?>
+
   </body>
 </html>
